@@ -34,7 +34,7 @@ V nastavení exportu přiřaďte ``ZKOD_DPB`` jako výstupní název ``Name`` a 
 ## Vytažení všech ploch jednoho družstva
 Ve veřejném LPIS exportu nejsou jména zemědělských družstev, ale je tam položka ``ID_UZ``, která odpovídá číslu v závorce za jménem ZD ve webovém rozhraní.
 
-Pokud víte alespoň jeden blok daného družstva, zjistíte provozovatele přes web:
+Pokud víte alespoň jeden blok daného družstva, zjistíte provozovatele přes [Veřejný registr půdy - LPIS](https://eagri.cz/public/app/lpisext/lpis/verejny2/plpis/):
 
 ![LPIS – ID_UZ](img/lpis-dohledani-id-uz.png)
 
