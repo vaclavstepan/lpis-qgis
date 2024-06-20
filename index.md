@@ -6,5 +6,4 @@ V první části se soustředím na generování geometrií k půdním blokům p
 
 V druhé na přípravu mapy s pozemními riziky pro posouzení možnosti realizace letu v Open kategorii.
 
-
-
+Vzorové projekty a data jsou k dispozici na [Linux@fjfi](https://linux.fjfi.cvut.cz/~w/qgis-lpis.tgz).
