@@ -19,3 +19,5 @@ format:
     toc: true
 
 lang: cs
+date: today
+date-format: iso
