@@ -1,0 +1,21 @@
+project:
+  type: book
+  output-dir: html
+
+book:
+ title: "LPIS v QGIS"
+ author:
+   - name: Václav Štěpán 
+     email: vaclav.stepan@fjfi.cvut.cz
+ chapters:
+   - index.md
+   - lpis.md
+   - rizika.md
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+lang: cs
