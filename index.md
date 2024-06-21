@@ -2,15 +2,18 @@
 
 Vzhledem k tomu, že jarní senoseč 2024 končí a já to do příště zapomenu, tu je stručný popis postupu, co jsem používal ke generování map pro termovizní létání.
 
-## Co budete potřebovat pro využití postupů
+Co budete potřebovat pro využití postupů:
 
- - QGIS (já používal 3.36.3) z [QGIS.org](https://www.qgis.org/en/site/).
+- QGIS (3.36.3 a vyšší) z [QGIS.org](https://www.qgis.org/en/site/).
 
- - Vzorové projekty a data z [Linux@fjfi](https://linux.fjfi.cvut.cz/~w/qgis-lpis.tgz).
+- Vzorové projekty a data z [Linux@fjfi](https://linux.fjfi.cvut.cz/~w/qgis-lpis.tgz).
+
+- Pro stahování novějších dat z LPIS a jejich zpracování GDAL a wget.
 
 ## Co je v podkapitolách popsáno
 
 ### Základní práce s LPIS v QGIS
+
 - Jak stáhnout data o půdních blocí pro vybrané kraje z LPIS do GeoPackage
 - Vykreslit do mapy bloky popsané čtvercem a DPB (dle CSV souboru).
 - Jak zjistit LPIS identifikátor zemědělského družstva a vykreslit všechny jejich půdní bloky s travnatým porostem.
