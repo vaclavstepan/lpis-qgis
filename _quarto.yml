@@ -11,6 +11,9 @@ book:
    - index.md
    - lpis.md
    - rizika.md
+   - dpb-pp.md
+   - pilot2.md
+   - todo.md
 
 format:
   html:
