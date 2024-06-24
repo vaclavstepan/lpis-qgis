@@ -4,6 +4,7 @@
 
 Před použitím v roce 2025 bude třeba stáhnout pro vybrané okresy z LPIS databázi půdních bloků.
 V ``okresy.csv`` je příklad - co nepotřebujete, zakomentujte pomocí ``#``.
+Pokud potřebujete další okresy, doplňte řádek s číslem a jménem okresu dle [číselníku](https://eagri.cz/ssl/nosso-app/DataKeStazeni/Okresy).
 
 Jako příklad je přiložena kopie veřejně dostupných dat z LPIS k 15.6.2024.
 
