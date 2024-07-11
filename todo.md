@@ -1,6 +1,6 @@
 # Rozpracované věci
 
-## uSD karta s všemi plochami ^[Dle nápadu Jakuba Hickse Chromého.]
+## microSD karta s všemi plochami ^[Dle nápadu Jakuba Hickse Chromého.]
 
 Z dostupných dat už by šlo připravit archiv s KML souborem pro každou plochu, uspořádáno dle zemědělského družstva nebo čtverce, se zohledněním OP.
 

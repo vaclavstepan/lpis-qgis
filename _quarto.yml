@@ -24,3 +24,7 @@ format:
 lang: cs
 date: today
 date-format: iso
+
+bibliography: literatura.bib
+reference-section-title: Literatura
+csl: iso690-numeric-brackets-cs.csl
