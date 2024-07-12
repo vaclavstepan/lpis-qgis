@@ -8,6 +8,7 @@ Z Enterprise DJI dronů jde ke sdílení obrazu použít následující cesty:
 - Přímé sdílení videa přes RTSP (z aplikace na dalším telefonu se připojíte na DJI RC)
 - Streamování obrazu na RTMP server, který se pak stará o sdílení obrazu klientům 
 - Cloudové připojení (FlightHub)
+- Použití systémového řešení pro screencast Android obrazovky
 
 ## RTSP stream
 

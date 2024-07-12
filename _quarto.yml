@@ -3,7 +3,7 @@ project:
   output-dir: html
 
 book:
- title: "LPIS v QGIS"
+ title: "LPIS, QGIS, létání"
  author:
    - name: Václav Štěpán 
      email: vaclav.stepan@fjfi.cvut.cz
