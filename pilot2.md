@@ -16,3 +16,10 @@ V ploše dál může být v mapě nevyznačené nadzemní vedení, osamělé str
 
 Údaje o elektrických vedeních z OpenStreetMap data mohou být nepřesné.
 
+## Real time terrain follow u Mavic 3T
+
+Mavic 3 Enterprise drony umí udržovat stálou výšku nad terénem pomocí senzorů -- nadletí si tedy keře, hranu lesa a podobně.
+Režim lze zapnout jak ve FlightHub, tak i přímo v Pilot 2 aplikaci na ovladači.
+
+Příklad [viz YouTube](https://www.youtube.com/watch?v=Jm2DvnwUTRQ).
+
