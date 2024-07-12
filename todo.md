@@ -18,3 +18,8 @@ Do QField lze lehce dostat QGIS projekt pomocí importu z URL, nebo přes QField
 
 Mapu lze vyexportovat na web a udělat to tak pro uživatele skoro úplně bezprahové.
 
+## Integrace s ATAK pomocí UAS-Tool
+
+Živý stream z dronu lze sdílet ostatním do [ATAK prostředí](https://civtak.org).
+
+Viz [ATAK UAS Tool](https://tak.gov/plugins/uas-tool)

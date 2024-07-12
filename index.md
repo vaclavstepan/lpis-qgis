@@ -7,7 +7,7 @@ nocite: |
 
 Vzhledem k tomu, že jarní senoseč 2024 končí a já to do příště zapomenu, tu je stručný popis postupu, co jsem používal ke generování map pro termovizní létání.
 
-Pro širší kontext viz také články dole v seznamu literatury.
+Pro širší kontext viz také články v podkapitole @sec-literatura.
 
 Co budete potřebovat pro využití postupů:
 
@@ -39,6 +39,12 @@ Co budete potřebovat pro využití postupů:
 - Import dat z QGIS do FlightHub a příprava letu pomocí FlightHub
 - Příprava letu pomocí KML nahraného přímo do ovladače/Pilot 2.
 
+## Živý přenos videa z dronu
+
+- Přenos obrazu kolegovi operátorovi v místě (přes WiFi)
+- Streamování přes FlightHub
+- Živý přenos ve Facebook, Youtube atd. 
+
 ### Rozpracované věci
 A konečně, v poslední, co by šlo popsat, ale čeká to, až bude čas.
 
@@ -46,7 +52,7 @@ A konečně, v poslední, co by šlo popsat, ale čeká to, až bude čas.
 ### Poznámka
 Dokument je připraven v systému [Quarto](https://quarto.org). Aktuální HTML verze dokumentace je [zde](https://linux.fjfi.cvut.cz/~w/qgis-lpis/).
 
-## Literatura
+## Literatura {#sec-literatura}
 
 ::: {#refs}
 :::

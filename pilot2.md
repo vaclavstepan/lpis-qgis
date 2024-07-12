@@ -2,8 +2,12 @@
 
 Předpokládejme, že máme hranice ploch v KML formátu a chceme je nahrát do Pilot 2 pro zobrazení nad podkladovou mapou, případně přípravu letového plánu.
 
-## Příprava letového plánu ve FlightHub
+## Příprava letového plánu ve FlightHub {#sec-flighthub}
 
+FlightHub je cloudové řešení od DJI pro plánování misí, řízení letů a správu dat/vytváření ortofoto map v cloudu.
+Neplacená verze má omezení na počet projektů a nahraných vektorových dat.
+
+Viz [https://enterprise.dji.com/flighthub-2](https://enterprise.dji.com/flighthub-2).
 
 
 ## Příprava letového plánu v Pilot 2
